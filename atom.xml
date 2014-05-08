@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Programming is Easy]]></title>
-  <link href="http://blog.aaroncruz.com/atom.xml" rel="self"/>
-  <link href="http://blog.aaroncruz.com/"/>
-  <updated>2014-05-08T12:01:49+02:00</updated>
-  <id>http://blog.aaroncruz.com/</id>
+  <title><![CDATA[Lean Living]]></title>
+  <link href="http://pferdefleisch.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://pferdefleisch.github.io/blog/"/>
+  <updated>2014-05-08T15:50:03+02:00</updated>
+  <id>http://pferdefleisch.github.io/blog/</id>
   <author>
     <name><![CDATA[Aaron Cruz]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[2 Month Experiment]]></title>
-    <link href="http://blog.aaroncruz.com/blog/2014/05/06/2-month-experiment/"/>
+    <link href="http://pferdefleisch.github.io/blog/blog/2014/05/06/2-month-experiment/"/>
     <updated>2014-05-06T11:43:11+02:00</updated>
-    <id>http://blog.aaroncruz.com/blog/2014/05/06/2-month-experiment</id>
+    <id>http://pferdefleisch.github.io/blog/blog/2014/05/06/2-month-experiment</id>
     <content type="html"><![CDATA[<h2>Introduction</h2>
 
 <p>I am a freelance software developer with a productivity problem. I work from home and sit in a chair all day so any exercise that I do needs effort and planning. I am slightly overweight according to the Body Mass Index Chart at 175cm(5&#8217; 10&#8221;) and 82.5 kg (182 lbs).</p>

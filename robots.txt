@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.aaroncruz.com/sitemap.xml 
+Sitemap: http://pferdefleisch.github.io/blog/sitemap.xml 

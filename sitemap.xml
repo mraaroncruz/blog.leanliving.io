@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://blog.aaroncruz.com/blog/2014/05/06/2-month-experiment/</loc>
+        <loc>http://pferdefleisch.github.io/blog/blog/2014/05/06/2-month-experiment/</loc>
         <lastmod>2014-05-08T12:01:49+02:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.aaroncruz.com/blog/archives/</loc>
+        <loc>http://pferdefleisch.github.io/blog/blog/archives/</loc>
         <lastmod>2014-05-08T12:01:49+02:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.aaroncruz.com/</loc>
+        <loc>http://pferdefleisch.github.io/blog/</loc>
         <lastmod>2014-05-08T12:01:49+02:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.aaroncruz.com/robots.txt</loc>
+        <loc>http://pferdefleisch.github.io/blog/robots.txt</loc>
         <lastmod>2014-05-06T11:41:45+02:00</lastmod>
     </url>
 </urlset>
